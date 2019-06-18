@@ -11,7 +11,7 @@ namespace SimpleMVC.Controllers
         // GET: Test
         public ActionResult Test()
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test done");
             return View();
         }
     }
